@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+open browser,,,,31-10-2026 21:25:46,31-10-2026 21:26:05,18.951s,FAILED
+,,,,,,,
+Test Cases/OpenBrowser,,,,31-10-2026 21:26:02,31-10-2026 21:26:05,2.757s,FAILED
+"openBrowser(""https://www.google.com"")",,,,31-10-2026 21:26:02,31-10-2026 21:26:05,2.444s,FAILED

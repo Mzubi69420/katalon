@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="open browser" time="31.578" tests="1" failures="0" errors="0">
+   <testsuite name="open browser" tests="1" failures="0" errors="0" time="31.578" skipped="0" timestamp="31-10-2026T21:30:39" hostname="Muhammad Zubair - DESKTOP-CDKSEB4" id="Test Suites/open browser">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Muhammad Zubair\\git\\katalon\\Reports\\20261031_213019\\open browser\\20261031_213019"/>
+         <property name="logFiles" value="C:\\Users\\Muhammad Zubair\\git\\katalon\\Reports\\20261031_213019\\open browser\\20261031_213019\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Muhammad Zubair - DESKTOP-CDKSEB4"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.6.0.217"/>
+         <property name="browser" value="Edge Chromium 156"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="9ea5fdf53928349cf24d1d5db516abdf"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/OpenBrowser" time="30.485" classname="Test Cases/OpenBrowser" status="PASSED">
+         <system-out><![CDATA[31-10-2026T21:30:40 - [TEST_CASE][PASSED] - Test Cases/OpenBrowser: Test Cases/OpenBrowser
+
+31-10-2026T21:30:41 - [TEST_STEP][PASSED] - openBrowser("https://www.google.com"): Browser is opened with url: 'https://www.google.com'
+
+31-10-2026T21:30:43 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+31-10-2026T21:30:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+31-10-2026T21:31:05 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.google.com'
+
+31-10-2026T21:31:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+31-10-2026T21:31:11 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[31-10-2026T21:30:39 - [TEST_SUITE][PASSED] - open browser: Test Cases/OpenBrowser]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
