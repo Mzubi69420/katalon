@@ -1,6 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-open browser,Edge Chromium 156,,,31-10-2026 18:17:27,31-10-2026 18:17:36,9.424s,PASSED
-,,,,,,,
-Test Cases/OpenBrowser,Edge Chromium 156,,,31-10-2026 18:17:28,31-10-2026 18:17:36,8.868s,PASSED
-"openBrowser(""https://www.google.com"")",Edge Chromium 156,,,31-10-2026 18:17:28,31-10-2026 18:17:35,7.145s,PASSED
-closeBrowser(),Edge Chromium 156,,,31-10-2026 18:17:35,31-10-2026 18:17:36,1.336s,PASSED
